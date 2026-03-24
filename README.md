@@ -1,3 +1,35 @@
+## Olá, sou a Carol 👋
+
+💻 Estudante de ADS
+🐍 Aprendendo Python
+🌐 Interesse em Desenvolvimento Web 
+
+## Atualmente estou aprendendo
+- Python
+- Algoritmos e Lógica de Programação
+- HTML e CSS
+
+## Objetivos
+- Me tornar uma desenvolvedora
+- Criar projetos úteis
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
 ## Hi, I'm Carol 👋
 
 💻 ADS student  
