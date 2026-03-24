@@ -1,7 +1,7 @@
 ## Olá, sou a Carol 👋
 
-💻 Estudante de ADS
-🐍 Aprendendo Python
+💻 Estudante de ADS                                                                                                                                                
+🐍 Aprendendo Python                                                                                                                                                
 🌐 Interesse em Desenvolvimento Web 
 
 ## Atualmente estou aprendendo
