@@ -8,6 +8,7 @@
 - Python
 - Algoritmos e Lógica de Programação
 - HTML e CSS
+- Suporte de TI
 
 ## Objetivos
 - Me tornar uma desenvolvedora
@@ -40,6 +41,7 @@
 - Python
 - Logic and algorithms
 - HTML and CSS
+- IT support
 
 ## Goals
 - Become a software developer
